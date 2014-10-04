@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AttackManager.js">
+    <Files>
+      <File FileName="Assets\Scripts\AttackManager.js" Line="4" Column="30" />
+      <File FileName="Assets\Scripts\UFOBehaviour.js" Line="33" Column="101" />
+      <File FileName="Assets\Scripts\MeteorBehaviour.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UFOGenerator.js" Line="64" Column="52" />
+      <File FileName="Assets\Scripts\GameOverBehaviour.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MeteorGenerator.js" Line="1" Column="1" />
+      <File FileName="Z:\home\chris\ship\Assets\Scripts\airbar.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

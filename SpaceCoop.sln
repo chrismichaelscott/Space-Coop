@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AF347654-ACA9-34D3-F797-02F8642704F1}") = "SpaceCoop", "Assembly-UnityScript-firstpass.unityproj", "{2047FB6E-59D3-E7AB-271B-55D4C52520AD}"
+EndProject
+Project("{AF347654-ACA9-34D3-F797-02F8642704F1}") = "SpaceCoop", "Assembly-UnityScript.unityproj", "{9FCE31E9-4AFD-1500-66E0-AFA6B178B907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2047FB6E-59D3-E7AB-271B-55D4C52520AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2047FB6E-59D3-E7AB-271B-55D4C52520AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2047FB6E-59D3-E7AB-271B-55D4C52520AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2047FB6E-59D3-E7AB-271B-55D4C52520AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCE31E9-4AFD-1500-66E0-AFA6B178B907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCE31E9-4AFD-1500-66E0-AFA6B178B907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCE31E9-4AFD-1500-66E0-AFA6B178B907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCE31E9-4AFD-1500-66E0-AFA6B178B907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																															GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
